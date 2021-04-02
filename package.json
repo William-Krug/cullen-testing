@@ -1,0 +1,22 @@
+{
+  "name": "cullen-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-Krug/cullen-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/William-Krug/cullen-testing/issues"
+  },
+  "homepage": "https://github.com/William-Krug/cullen-testing#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
